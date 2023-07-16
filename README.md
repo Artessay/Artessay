@@ -16,11 +16,13 @@ You can click the Preview link to take a look at your changes.
 --->
 
 I’m @Art
-- **Languages**:&nbsp;                         C++, Java, Python, SQL, JavaScript, Verilog etc.
+- **Languages**:&nbsp;                        C, C++, Java, Python, OCaml, SQL, JavaScript, Verilog etc.
 - **Field of interests**:&nbsp; Reinforcement Learning, Edge Intelligence, Data Visualization, Graphs, Compiler and so on
 
-<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Artessay)](https://github.com/anuraghazra/github-readme-stats) -->
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Artessay&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Artessay)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 ![](https://komarev.com/ghpvc/?username=Artessay&color=blue)
