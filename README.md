@@ -1,4 +1,6 @@
-### Hello visitor 👋
+## Hi, everyone. Nice to see you here! 👋
+
+<!-- my name is Rihong 👋 and I ❤️ AI and Open-Source -->
 
 <!-- 
 - 👋 Hi, I’m @Art
@@ -14,6 +16,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 I’m @Art
+- **Languages**:&nbsp;                         C++, Java, Python, SQL, JavaScript, Verilog etc.
+- **Field of interests**:&nbsp; Reinforcement Learning, Edge Intelligence, Data Visualization, Graphs, Compiler and so on
 
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Artessay)](https://github.com/anuraghazra/github-readme-stats) -->
 
