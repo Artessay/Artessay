@@ -15,14 +15,22 @@ Artessay/Artessay is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-I’m @Art
-- **Languages**:&nbsp;          C, C++, Java, Python, OCaml, JavaScript, Verilog etc.
-- **Field of interests**:&nbsp; Natural Language Processing, Reinforcement Learning, Data Visualization, Compiler and so on
+### About Me
+
+Hello! I’m Rihong, a student at the School of Computer Science at Peking University. My research interests mainly focus on big data engines, retrieval enhancement, and computer vision. I am passionate about exploring the latest advancements in these fields and applying them to solve real-world problems.
+
+### Research Interests
+
+* Real-time Data Warehouse Engine
+* Retrieval-Augmented Generation for Large Language Model
+* Computer Vision and Data Visulization
+
+### Get in Touch
+
+I am looking for collaboration and discussion. Please feel free to reach out to me at rihong.edu@gmail.com if you have any questions or ideas to share.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Artessay&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Artessay)](https://github.com/anuraghazra/github-readme-stats)
--->
 
 ![](https://komarev.com/ghpvc/?username=Artessay&color=blue)
