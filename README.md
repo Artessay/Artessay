@@ -17,9 +17,15 @@ You can click the Preview link to take a look at your changes.
 
 ### About Me
 
-Hello! I’m Rihong, a student at the School of Computer Science at Peking University. My research interests mainly focus on **Big Data**, **Computer Vision** and Retrieval-Augmented Generation for Large Language Model. I am passionate about exploring the latest advancements in these fields and applying them to solve real-world problems.
+Hello! I’m Rihong, a graduate student majoring in computer science and technology. 
+
+Currently, my research mainly focuses on real-time object detection and multi-agent learning.
+
+I am passionate about exploring the latest advancements in these fields and applying them to solve real-world problems.
 
 <!---
+My research interests mainly focus on **Big Data**, **Computer Vision** and **Retrieval-Augmented Generation** for Large Language Model. 
+
 ### Research Interests
 
 * Real-time Data Warehouse Engine
