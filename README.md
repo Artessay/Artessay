@@ -15,13 +15,16 @@ Artessay/Artessay is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
+
+Hello! I'm an enthusiastic student currently diving deep into the realm of Big Data. 
+On this academic journey, I'm devoted to uncovering the stories behind data and using them to solve real-world problems.
+
 ### About Me
 
-Hello! I’m Rihong, a graduate student majoring in computer science and technology. 
+- 🎓 I'm currently studying and focusing on data analytics, machine learning, and more.
+- 💼 I'm looking for collaborative projects, especially those that can create social impact through data insights.
+- 🤖 Beyond data science, I'm curious about real-time object detection and multi-agent learning.
 
-Currently, my research mainly focuses on real-time object detection and multi-agent learning.
-
-I am passionate about exploring the latest advancements in these fields and applying them to solve real-world problems.
 
 <!---
 My research interests mainly focus on **Big Data**, **Computer Vision** and **Retrieval-Augmented Generation** for Large Language Model. 
